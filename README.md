@@ -16,7 +16,7 @@ Unlike traditional FFT-based systems, the Ghyser Chip performs frequency analysi
 
 ## Applications
 
-### ⚡ Advanced Energy Systems
+### Advanced Energy Systems
 - Green hydrogen production via resonant electrolysis
 - Smart grid frequency stabilization
 - Plasma or RF field optimization in fusion systems
